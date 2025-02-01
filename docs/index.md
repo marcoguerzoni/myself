@@ -1,3 +1,4 @@
+theme: jekyll-theme-hacker
 # <span style="color:red;">My</span> Dashboard
 
 ![Home Image](homeimage.png)
