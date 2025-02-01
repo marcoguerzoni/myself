@@ -1,3 +1,7 @@
+---
+layout: default
+title: My Dashboard
+---
 # <span style="color:red;">My</span> Dashboard
 
 ![Home Image](homeimage.png)
